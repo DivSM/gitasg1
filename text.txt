@@ -1,2 +1,1 @@
-This a test file created in GitHub
-Adding a line in local to test
+cmd added line
